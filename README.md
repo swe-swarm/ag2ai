@@ -501,3 +501,8 @@ This project is licensed under the [Apache License, Version 2.0 (Apache-2.0)](./
 - Modifications and additions made in this fork are licensed under the Apache License, Version 2.0. See the [LICENSE](./LICENSE) file for the full license text.
 
 We have documented these changes for clarity and to ensure transparency with our user and contributor community. For more details, please see the [NOTICE](./NOTICE.md) file.
+
+## Swe-swarm integration
+
+This fork includes a Python AG2 framework for swe-swarm roles, bounded workflows,
+GenAID execution, and a Node JSON bridge. See [setup and usage](docs/swe-swarm.md).
